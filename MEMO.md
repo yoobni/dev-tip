@@ -15,7 +15,9 @@ Memo : About dev blog, site, tips, studying
 - Customizing Lib : css(with sass), js(browser trick), jQuery
 - 삼국지 : Like sd삼국지
 - Chatting system : Like kakao talk
-- simulater
+- Maple simulater
+- resume page
+- academy admin page
 
 ---
 #### Keyword
