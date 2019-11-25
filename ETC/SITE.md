@@ -102,8 +102,6 @@ https://www.html5rocks.com/ko/tutorials/webrtc/basics/
 -ppt
 http://brightworks.co.kr/
 -자바스크립트 엔진 최적화
-http://meetup.toast.com/posts/77
--나중에 지원할곳
 https://github.com/tumblbug/careers
 -지원템플릿
 https://airtable.com/
@@ -159,3 +157,13 @@ https://presscat.co.kr/blog/web-agency-ranking/?utm_content=partnershipping-post
 http://www.inobean.com/contact/adInquiry.php
 -css grid
 http://cssgridgarden.com/#ko
+
+[색 고르는 사이트]
+https://htmlcolorcodes.com/resources/
+
+
+[블록체인 관련 자료]
+https://brunch.co.kr/@taewookim/4?f=fp
+
+[Mac Terminal 에러시]
+https://tech.songyunseop.com/post/2016/08/install-nodejs-by-npm/
