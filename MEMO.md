@@ -18,6 +18,7 @@ Memo : About dev blog, site, tips, studying
 - Maple simulater
 - resume page
 - academy admin page
+- discord.js api
 
 ---
 #### Keyword
